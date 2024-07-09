@@ -1,0 +1,14 @@
+{
+  "name": "Canv",
+  "short_name": "Canv",
+  "theme_color": "#000000",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [{
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+   }]
+}
